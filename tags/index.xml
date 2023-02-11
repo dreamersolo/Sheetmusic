@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sheet Music</title>
+    <link>https://dreamersolo.github.io/Sheetmusic/tags/</link>
+    <description>Recent content in Tags on Sheet Music</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Feb 2023 10:03:06 +0000</lastBuildDate><atom:link href="https://dreamersolo.github.io/Sheetmusic/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uncategorized</title>
+      <link>https://dreamersolo.github.io/Sheetmusic/tags/uncategorized/</link>
+      <pubDate>Sat, 11 Feb 2023 10:03:06 +0000</pubDate>
+      
+      <guid>https://dreamersolo.github.io/Sheetmusic/tags/uncategorized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sheet Music</title>
+      <link>https://dreamersolo.github.io/Sheetmusic/tags/sheet-music/</link>
+      <pubDate>Fri, 10 Feb 2023 22:58:42 +0000</pubDate>
+      
+      <guid>https://dreamersolo.github.io/Sheetmusic/tags/sheet-music/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
